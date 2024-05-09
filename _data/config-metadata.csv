@@ -1,9 +1,13 @@
 field,display_name,browse_link,external_link
 title,Title,
 creator,Creator,
+translator, Translator,
+genere, Genere,
 date,Date Created,
 description,Description,
 subject,Subjects,true
+tags,Tags,
+language, anguage,
 location,Location
 latitude,Latitude
 longitude,Longitude
