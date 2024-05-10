@@ -10,12 +10,10 @@ credits: true
 
 {% include feature/jumbotron.html objectid="/assets/img/jj-ying-WmnsGyaFnCQ-unsplash_opt.jpg" %}
 
-## About CollectionBuilder-Sheets
+## About the Collection
 
-This site is generated using [CollectionBuilder-Sheets](https://github.com/CollectionBuilder/collectionbuilder-sheets), a template  for creating simple digital exhibit websites by loading collection metadata directly from a CSV, designed for teaching digital library skills and easy hosting on GitHub Pages.
+The authors and titles featured in this digital collection are a digital adaptation of printed books by Arte Público Press. Emphasizing women's literature, the digital collection encompasses a diverse range of genres, including fiction, non-fiction, narrative, poetry, dramatic texts, and anthologies. Spanning historical pieces from nineteenth-century authors, activists, publicists, and participants in the Mexican Revolution to contemporary voices, this collection illuminates previously overlooked literary contributions.
 
-Using CB-Sheets, it is possible to use a live Google Sheets spreadsheet for your collection metadata, allowing you to see the outcome of metadata edits update immediately.
-This enables active collaboration to prototype collections with minimal set up.
 
 <button class="btn btn-lg btn-success" data-bs-toggle="modal" data-bs-target="#cbSetUpModal">
     <svg class="bi icon-sprite" xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16" aria-hidden="true">
