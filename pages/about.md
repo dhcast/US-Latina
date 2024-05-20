@@ -3,13 +3,12 @@ title: About
 layout: about
 permalink: /about.html
 # include CollectionBuilder info at bottom
-credits: true
+credits: false
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
 
 {% include feature/jumbotron.html objectid="/assets/img/jj-ying-WmnsGyaFnCQ-unsplash_opt.jpg" %}
-
 ## About the Collection
 
 In order to provide information about this collection, we follow [Collections as Data](https://collectionsasdata.github.io/facet7/) facets.
@@ -22,16 +21,17 @@ The authors and titles included in this digital collection represent a digital a
 
 ## 3. How you did it
 
-This digital project is built with [CollectionBuilder].(https://collectionbuilder.github.io/), an open source framework developed by faculty librarians at the University of Idaho Library following the [Lib-Static].(https://lib-static.github.io/) methodology. The site started from the [CollectionBuilder-Sheets].(https://github.com/CollectionBuilder/collectionbuilder-sheets) template which utilizes the static website generator [Jekyll].(https://jekyllrb.com/) and [GitHub Pages].(https://pages.github.com/) to build and host digital collections. During the elaboration of this exhibition, the available information in the [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/) was taken into account. Following the steps to create the static page, Dąbrowska compiled the data and objects (images, audio, video), formatted the MetadataSheet, and edited the website. Villaroel curated the data and designed the exhibition, while Baeza Ventura supervised the work and protocols. Special thanks to Devin Becker, CollectionBuilder consultant, for technical support with geolocation (latitude/longitude) data.
+This digital project is built with [CollectionBuilder](https://collectionbuilder.github.io/), an open source framework developed by faculty librarians at the University of Idaho Library following the [Lib-Static](https://lib-static.github.io/) methodology. The site started from the [CollectionBuilder-Sheets](https://github.com/CollectionBuilder/collectionbuilder-sheets) template which utilizes the static website generator [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/) to build and host digital collections. During the elaboration of this exhibition, the available information in the [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/) was taken into account. Following the steps to create the static page, Dąbrowska compiled the data and objects (images, audio, video), formatted the MetadataSheet, and edited the website. Villaroel curated the data and designed the exhibition, while Baeza Ventura supervised the work and protocols. Special thanks to Devin Becker, CollectionBuilder consultant, for technical support with geolocation (latitude/longitude) data.
 
 People
+
 Monika Dąbrowska, PhD: International University of La Rioja (UNIR), Spain
 Gabriela Baeza Vnetura. PhD: University of Houston, Arte Publico Press and The US Latino Digital Humanities Center (USLDH)
 Carolina Villaroel, PhD: University of Houston, Arte Publico Press and The US Latino Digital Humanities Center (USLDH)
 
 ## 4. Share the docs
 
-Throughout the development of the collection, the team followed the USLDH [Best Practices](https://artepublicopress.com/digital-humanities/). To optimize searchability, metadata incorporates Library of Congress Subject Headings (LCSH). Additionally, aiming to facilitate data reuse or migration, we endeavor to incorporate the [FAIR](https://www.go-fair.org/go-fair-initiative/) and [CARE](https://www.gida-global.org/care) Principles in the Digital Humanities. The collection ensures access to all of its objects and data. Metadata can be downloaded from both the [Data].(https://dhcast.github.io/US-Latina/data.html) menu tab on the site and is available on the GitHub page, enhancing accessibility.
+Throughout the development of the collection, the team followed the USLDH [Best Practices](https://artepublicopress.com/digital-humanities/). To optimize searchability, metadata incorporates Library of Congress Subject Headings (LCSH). Additionally, aiming to facilitate data reuse or migration, we endeavor to incorporate the [FAIR](https://www.go-fair.org/go-fair-initiative/) and [CARE](https://www.gida-global.org/care) Principles in the Digital Humanities. The collection ensures access to all of its objects and data. Metadata can be downloaded from both the [Data](https://dhcast.github.io/US-Latina/data.html) menu tab on the site and is available on the GitHub page, enhancing accessibility.
 
 ## 5. Understanding use
 
