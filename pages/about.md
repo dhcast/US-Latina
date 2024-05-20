@@ -12,12 +12,10 @@ credits: true
 
 ## About the Collection
 
-In order to provide information about this collection, we follow [Collections as Data].(https://collectionsasdata.github.io/facet7/) facets.
-
+In order to provide information about this collection, we follow [Collections as Data].(https://collectionsasdata.github.io/facet7) facets.
 ## 1. Why do it
 
 The extensive and diverse literary production of women of Latino and Hispanic origin in the United States remains relatively unknown or overlooked by the general reading public. "US Latina Writers" provides an overview of Latina women's writing in North America, aiming to enhance its recognition and visibility both nationally and internationally. The digital format and open access facilitate the dissemination, popularization, and engagement with this rich cultural heritage. Additionally, this initiative seeks to support research on the content, themes, and topics of these works, as well as to foster new interpretative approaches using digital tools and methods.
-
 ## 2. Making the Case
 
 The authors and titles included in this digital collection represent a digital adaptation of printed books published by [Arte Público Press](https://artepublicopress.com/), the oldest publishing house for Latino authors in the United States. Since its founding in 1979, Arte Público Press has preserved the legacy of nineteenth-century female authors through the "Recovering the US Hispanic Literary Heritage" project and has promoted contemporary women writers. Now, with the support of [The US Latino Digital Humanities Center (USLDH)].(https://artepublicopress.com/digital-humanities/) as part of Arte Público Press, a digital exhibition of the female literary legacy has been created.
