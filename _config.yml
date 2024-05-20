@@ -20,12 +20,12 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-sheets
 # SITE SETTINGS
 #
 # title of site appears in banner
-title:  The US Latina Writers 
+title:  US Latina Writers 
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: Published by Arte Público Press
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "This collection housing the literary output of Latin American female authors residing in the United States Southwest as published by Arte Publico Press over the past four decades (1984 – 2024)."
+description: "This collection houses the literary works of female authors of Latin/Hispanic descent residing in the United States, as published by Arte Público Press over the past four decades (1980 – 2024). Emphasizing women's literature, the digital collection encompasses a diverse range of genres, including fiction, non-fiction, narrative, poetry, dramatic texts, interviews, photobooks, and critical works. Spanning from historical pieces by nineteenth-century authors, activists, publicists, and participants in the Mexican Revolution to contemporary voices, this collection illuminates previously overlooked literary contributions."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: md
 
