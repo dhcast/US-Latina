@@ -13,7 +13,7 @@ credits: false
 
 In order to provide information about this collection, we follow [Collections as Data](https://collectionsasdata.github.io/facet7/) facets.
 ## 1. Why do it
-
+<b>1. Why do it</b>
 The extensive and diverse literary production of women of Latino and Hispanic origin in the United States remains relatively unknown or overlooked by the general reading public. "US Latina Writers" provides an overview of Latina women's writing in North America, aiming to enhance its recognition and visibility both nationally and internationally. The digital format and open access facilitate the dissemination, popularization, and engagement with this rich cultural heritage. Additionally, this initiative seeks to support research on the content, themes, and topics of these works, as well as to foster new interpretative approaches using digital tools and methods.
 ## 2. Making the Case
 
@@ -25,9 +25,9 @@ This digital project is built with [CollectionBuilder](https://collectionbuilder
 
 People
 
-Monika Dąbrowska, PhD: International University of La Rioja (UNIR), Spain
-Gabriela Baeza Vnetura. PhD: University of Houston, Arte Publico Press and The US Latino Digital Humanities Center (USLDH)
-Carolina Villaroel, PhD: University of Houston, Arte Publico Press and The US Latino Digital Humanities Center (USLDH)
+Monika Dąbrowska, PhD: International University of La Rioja (UNIR), Spain.
+Gabriela Baeza Vnetura, PhD: University of Houston, Arte Publico Press and The US Latino Digital Humanities Center (USLDH).
+Carolina Villaroel, PhD: University of Houston, Arte Publico Press and The US Latino Digital Humanities Center (USLDH).
 
 ## 4. Share the docs
 
@@ -48,6 +48,8 @@ Approaching writers categorized as Latin Americans requires a nuanced understand
 ## 8. Whats next
 
 The future development of the collection aims to enhance this literary cartography of the American Southwest by augmenting author-related information. This expansion encompasses details regarding their origins, biographical data, principal works, awards, and recognitions. Furthermore, there are intentions to enhance the visualization of geospatial data associated with the collection.
+
+
 
 
 
