@@ -11,12 +11,6 @@ language, Language,
 location,Location
 latitude,Latitude
 longitude,Longitude
-location2,Location2
-latitude2,Latitude2
-longitude2,Longitude2
-location3,Location3
-latitude3,Latitude3
-longitude3,Longitude3
 source,Source
 identifier,Source Identifier,,
 type,Type,
