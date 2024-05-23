@@ -8,15 +8,15 @@ description,Description,
 subject,Subjects,true
 tags,Tags, true
 language, Language,
-location,Location,true
-latitude,Latitude,true
-longitude,Longitude,true
-location2,Location2,true
-latitude2,Latitude2,true
-longitude2,Longitude2,true
-location3,Location3,true
-latitude3,Latitude3,true
-longitude3,Longitude3,true
+location,Location
+latitude,Latitude
+longitude,Longitude
+location2,Location2
+latitude2,Latitude2
+longitude2,Longitude2
+location3,Location3
+latitude3,Latitude3
+longitude3,Longitude3
 source,Source
 identifier,Source Identifier,,
 type,Type,
