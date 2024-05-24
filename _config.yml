@@ -45,8 +45,8 @@ metadata-csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vQbRFm8tAPGlmju2oK
 # Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 # organization-name: "Arte Público Press"
 # organization-link: https://artepublicopress.com/
-# organization-logo-banner: /assets/img/APP_Logo_2019.png
-# organization-logo-nav: https://artepublicopress.com/
+# organization-logo-banner: assets/img/APP_Logo_2019.png
+# organization-logo-nav: 
 
 ##########
 # ROBOTS EXCLUDE
