@@ -29,7 +29,9 @@ This digital project is built with [CollectionBuilder](https://collectionbuilder
 People
 
 Monika Dąbrowska, PhD: International University of La Rioja (UNIR), Spain.
+
 Gabriela Baeza Vnetura, PhD: University of Houston, Arte Publico Press and The US Latino Digital Humanities Center (USLDH).
+
 Carolina Villaroel, PhD: University of Houston, Arte Publico Press and The US Latino Digital Humanities Center (USLDH).
 
 ### 4. Share the docs
