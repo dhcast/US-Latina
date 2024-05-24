@@ -1,5 +1,6 @@
 field,display_name,browse_link,external_link
 title,Title,
+title-es,Title-es,
 creator,Creator,
 translator, Translator, true
 genere, Genere,
@@ -9,8 +10,6 @@ subject,Subjects,true
 tags,Tags, true
 language, Language,
 location,Location
-latitude,Latitude
-longitude,Longitude
 source,Source
 identifier,Source Identifier,,
 type,Type,
